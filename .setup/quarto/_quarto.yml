@@ -17,7 +17,7 @@ book:
     - index.qmd
   appendices:
     - .setup/quarto/session/session.qmd
-bibliography: .setup/quarto/bib/bib.bib
+bibliography: .setup/quarto/bib/quarto.bib
 csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
 
 format:
