@@ -2,6 +2,10 @@
 
 \input{.setup/latex/preamble/preamble}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% BIBLATEX READING
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
 %% begin.rcode
 % #| label = "root",
 % #| include = FALSE
@@ -39,7 +43,8 @@
 %         ".setup",
 %         "latex",
 %         "bib"
-%       )
+%       ),
+%       style = "reading"
 %     )
 %   )
 % } else {
@@ -53,19 +58,23 @@
 %       output_path = root$find_file(
 %         ".setup",
 %         "latex"
-%       )
+%       ),
+%       style = "reading"
 %     )
 %   )
 % }
 %% end.rcode
-
-\title{lib-2023-manual}
-\author{Ivan Jacob Agaloos Pesigan}
-\date{\today}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
 
-\maketitle
+\begin{center}
+    \LARGE
+    \textbf{Ivan Jacob Agaloos Pesigan} \\
+    \large
+    \textbf{\today}
+\end{center}
 
 \nocite{*}
 
