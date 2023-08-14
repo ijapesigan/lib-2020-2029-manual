@@ -1,7 +1,7 @@
 lib-2020-2029-manual
 ================
 Ivan Jacob Agaloos Pesigan
-2023-08-13
+2023-08-14
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -31,6 +31,14 @@ Arbuckle, J. L. (2020). *Amos 27.0 user’s guide*. IBM SPSS.
 <div id="ref-Arbuckle-2021" class="csl-entry">
 
 Arbuckle, J. L. (2021). *Amos 28.0 user’s guide*. IBM SPSS.
+
+</div>
+
+<div id="ref-Asparouhov-Muthen-2022" class="csl-entry">
+
+Asparouhov, T., & Muth’en, B. O. (2022). *Multiple imputation with
+Mplus* \[Technical report\]. http://www.statmodel.com.
+<http://www.statmodel.com/download/Imputations7.pdf>
 
 </div>
 
