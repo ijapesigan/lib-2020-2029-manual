@@ -18,17 +18,6 @@ Check](https://github.com/ijapesigan/lib-2020-2029-manual/actions/workflows/shel
 <div id="refs" class="references csl-bib-body hanging-indent"
 line-spacing="2">
 
-<div id="ref-NSDUH-2020" class="csl-entry">
-
-Abuse, S., & Administration, M. H. S. (2020). *Key substance use and
-mental health indicators in the united states: Results from the 2019
-national survey on drug use and health (HHS publication no.
-PEP20-07-01-001, NSDUH series h-55)*. Center for Behavioral Health
-Statistics; Quality, Substance Abuse; Mental Health Services
-Administration. <https://www.samhsa.gov/data/>
-
-</div>
-
 <div id="ref-Arbuckle-2020" class="csl-entry">
 
 Arbuckle, J. L. (2020). *Amos 27.0 user’s guide*. IBM SPSS.
@@ -64,6 +53,16 @@ Jorgensen, T. D., Pornprasertmanit, S., Schoemann, A. M., & Rosseel, Y.
 (2022). *<span class="nocase">semTools</span>: Useful tools for
 structural equation modeling*.
 <https://CRAN.R-project.org/package=semTools>
+
+</div>
+
+<div id="ref-NSDUH-2020" class="csl-entry">
+
+*Key substance use and mental health indicators in the united states:
+Results from the 2019 national survey on drug use and health (HHS
+publication no. PEP20-07-01-001, NSDUH series h-55)*. (2020). Center for
+Behavioral Health Statistics; Quality, Substance Abuse; Mental Health
+Services Administration. <https://www.samhsa.gov/data/>
 
 </div>
 
