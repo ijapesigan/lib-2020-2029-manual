@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-2020-2029-manual/actions/workflows/shel
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-line-spacing="2">
+entry-spacing="0" line-spacing="2">
 
 <div id="ref-Arbuckle-2020" class="csl-entry">
 
