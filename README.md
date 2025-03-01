@@ -1,7 +1,7 @@
 lib-2020-2029-manual
 ================
 Ivan Jacob Agaloos Pesigan
-2024-12-12
+2025-03-01
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -112,6 +112,14 @@ computing*. R Foundation for Statistical Computing.
 <div id="ref-RCoreTeam-2024" class="csl-entry">
 
 R Core Team. (2024). *R: A language and environment for statistical
+computing*. R Foundation for Statistical Computing.
+<https://www.R-project.org/>
+
+</div>
+
+<div id="ref-RCoreTeam-2025" class="csl-entry">
+
+R Core Team. (2025). *R: A language and environment for statistical
 computing*. R Foundation for Statistical Computing.
 <https://www.R-project.org/>
 
