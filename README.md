@@ -1,7 +1,7 @@
 lib-2020-2029-manual
 ================
 Ivan Jacob Agaloos Pesigan
-2025-06-29
+2025-07-20
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -155,6 +155,13 @@ Bachman, J. G., & Miech, R. A. (2021). *<span class="nocase">Monitoring
 the Future</span> national survey results on drug use, 1975-2020: Volume
 II, college students and adults ages 19–60*. Institute for Social
 Research, The University of Michigan.
+
+</div>
+
+<div id="ref-Tange-2024" class="csl-entry">
+
+Tange, O. (2024). *<span class="nocase">GNU Parallel 20241222 (’Bashar’)
+\[stable\]</span>*. Zenodo. <https://doi.org/10.5281/ZENODO.14550073>
 
 </div>
 
