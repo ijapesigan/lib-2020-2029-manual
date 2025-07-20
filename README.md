@@ -158,6 +158,14 @@ Research, The University of Michigan.
 
 </div>
 
+<div id="ref-Tange-2021" class="csl-entry">
+
+Tange, O. (2021). *<span class="nocase">GNU Parallel 20210922
+(’Vindelev’) \[stable\]</span>*. Zenodo.
+<https://doi.org/10.5281/ZENODO.5523272>
+
+</div>
+
 <div id="ref-Tange-2024" class="csl-entry">
 
 Tange, O. (2024). *<span class="nocase">GNU Parallel 20241222 (’Bashar’)
