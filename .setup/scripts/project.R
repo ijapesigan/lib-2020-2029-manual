@@ -17,6 +17,8 @@
 
 project <- "lib-2020-2029-manual"
 
+rproject_ver <- NULL
+
 pkg_cran <- c(
   "RefManageR"
 )
