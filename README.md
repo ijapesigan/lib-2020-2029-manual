@@ -33,11 +33,27 @@ Arbuckle, J. L. (2021). *Amos 28.0 user’s guide*. IBM SPSS.
 
 </div>
 
+<div id="ref-Asparouhov-Muthen-2022" class="csl-entry">
+
+Asparouhov, T., & Muth’en, B. O. (2022). *Multiple imputation with
+Mplus* \[Technical report\].
+<http://www.statmodel.com/download/Imputations7.pdf>
+
+</div>
+
 <div id="ref-Asparouhov-Muthen-2024a" class="csl-entry">
 
-Asparouhov, T., & Muth’en, B. O. (2024). *Continuous time dynamic
+Asparouhov, T., & Muth’en, B. O. (2024a). *Continuous time dynamic
 structural equation models* \[Technical report\].
 <https://www.statmodel.com/download/CTRDSEM.pdf>
+
+</div>
+
+<div id="ref-Asparouhov-Muthen-2024b" class="csl-entry">
+
+Asparouhov, T., & Muth’en, B. O. (2024b). *Practical aspects of dynamic
+structural equation models* \[Technical report\].
+<https://www.statmodel.com/download/PDSEM.pdf>
 
 </div>
 
