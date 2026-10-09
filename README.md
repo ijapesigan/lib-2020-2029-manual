@@ -1,7 +1,7 @@
 lib-2020-2029-manual
 ================
 Ivan Jacob Agaloos Pesigan
-2026-09-29
+2026-10-09
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -38,6 +38,14 @@ Arbuckle, J. L. (2021). *Amos 28.0 user’s guide*. IBM SPSS.
 Asparouhov, T., & Muth’en, B. O. (2022). *Multiple imputation with
 Mplus* \[Technical report\].
 <http://www.statmodel.com/download/Imputations7.pdf>
+
+</div>
+
+<div id="ref-Asparouhov-Muthen-2023" class="csl-entry">
+
+Asparouhov, T., & Muth’en, B. O. (2023). *Bayesian analysis using Mplus:
+Technical implementation* \[Technical report\].
+<http://www.statmodel.com/download/Bayes2.pdf>
 
 </div>
 
