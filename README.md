@@ -1,7 +1,7 @@
 lib-2020-2029-manual
 ================
 Ivan Jacob Agaloos Pesigan
-2026-11-01
+2026-11-02
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -167,6 +167,14 @@ computing*. R Foundation for Statistical Computing.
 R Core Team. (2026). *R: A language and environment for statistical
 computing*. R Foundation for Statistical Computing.
 <https://www.R-project.org/>
+
+</div>
+
+<div id="ref-Revelle-2026" class="csl-entry">
+
+Revelle, W. (2026). *<span class="nocase">psych</span>: Procedures for
+psychological, psychometric, and personality research*. Northwestern
+University. <https://CRAN.R-project.org/package=psych>
 
 </div>
 
