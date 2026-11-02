@@ -122,6 +122,22 @@ thesis\]. University of Macau.
 
 </div>
 
+<div id="ref-Pesigan-2026a" class="csl-entry">
+
+Pesigan, I. J. A. (2026a). *<span class="nocase">betaMC</span>: Monte
+Carlo for regression effect sizes*.
+<https://CRAN.R-project.org/package=betaMC>
+
+</div>
+
+<div id="ref-Pesigan-2026b" class="csl-entry">
+
+Pesigan, I. J. A. (2026b). *<span class="nocase">betaNB</span>:
+Bootstrap for regression effect sizes*.
+<https://CRAN.R-project.org/package=betaNB>
+
+</div>
+
 <div id="ref-RCoreTeam-2021" class="csl-entry">
 
 R Core Team. (2021). *R: A language and environment for statistical
